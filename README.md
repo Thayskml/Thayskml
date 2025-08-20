@@ -1,14 +1,12 @@
 ## Hiiii!!! Eu sou a Thays Kamylla
 
-<div>
-  <a href-"https://github.com/Thayskml">
-    <img height-"180em" src-"https://github-readme-stats.vercel.app/api?username"Thayskml&show_icons-&true&theme-merko&include_all_commits-true&count_private-true"/_>
-    <img height-"180em" src-"https://github-readme-stats.vercel.app/api/top-langs/?username"Thayskml&layout"compact&langs_count"16&theme"dark/_>
-</div>
-    
-##
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thays.kamylla)
 
-<div>
-  <a href-"https://instagram.com/thays.kamylla target"_blank"><img src-"https://img.shields.io/badge/-Intagram-%23E4405F?style-for-the-bardge&logo"instagram&logoColor-white"
-    target-"_blank"></a>
-</div>
+![Thayskml Github stats](https://github-readme-stats.vercel.app/api?username=Thayskml&show_icons=true&theme=tokyonight)
+
+### Apaixonada por Conhecimento.
+
+<div style="display: inline_block"><br/>
+<img aling= "center" alt="html5" src"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</div><br/>
+
